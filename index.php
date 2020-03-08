@@ -9,7 +9,7 @@ $row[ 4 ] = array("fin_year" => 2018, "fin_month" => 12, "spent" => 200.00, "cal
 $row[ 5 ] = array("fin_year" => 2019, "fin_month" => 2, "spent" => 725.00, "cal_year" => 2018, "cal_month" => 8);
 $row[ 6 ] = array("fin_year" => 2019, "fin_month" => 3, "spent" => 210.00, "cal_year" => 2018, "cal_month" => 9);
 $row[ 7 ] = array("fin_year" => 2019, "fin_month" => 4, "spent" => 330.00, "cal_year" => 2018, "cal_month" => 10);
-$row[ 8 ] = array("fin_year" => 2019, "fin_month" => 8, "spent" => 230.00, "cal_year" => 2019, "cal_month" => 4);
+$row[ 8 ] = array("fin_year" => 2019, "fin_month" => 8, "spent" => 230.00, "cal_year" => 2019, "cal_month" => 2);
 $row[ 9 ] = array("fin_year" => 2019, "fin_month" => 10, "spent" => 333.00, "cal_year" => 2019, "cal_month" => 4);
 
 
