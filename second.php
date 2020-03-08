@@ -28,7 +28,7 @@ $start_year = 2017;
 $last_year = 2019;
 
 // loops through every year between $start_year and $last_year
-/*for( $current_year = $start_year; $current_year <= $last_year; $current_year++ ) {
+for( $current_year = $start_year; $current_year <= $last_year; $current_year++ ) {
     // loops through every month between 1 and 12
     for( $current_month = 1; $current_month <= 12; $current_month++ ) {
         // loops through every item of your array
@@ -42,11 +42,12 @@ $last_year = 2019;
         }
         if( !$found )  {
             // if there was no entry found with that year and month, it will add a new one at the end
+
             $row[] = array("fin_year" => $current_year, "fin_month" => $current_month, "spent" => 0, "cal_year" => $current_year, "cal_month" => $current_month );
             $found = false;
         }
     }
-}*/
+}
 
 // function to sort the array by fin_year and if equal by fin_month
 /*function special_sort($a, $b) {
